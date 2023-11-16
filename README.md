@@ -1,6 +1,6 @@
-# GPT-Style Transformer Language Model
+# GPT Transformer Language Model
 
-Welcome to the GPT-Style Transformer Language Model repository! This project implements a language model inspired by the Transformer architecture, aiming to generate coherent and contextually relevant text sequences using PyTorch.
+Welcome to the GPT Transformer Language Model repository! This project implements a language model inspired by the Transformer architecture, aiming to generate coherent and contextually relevant text sequences using PyTorch.
 
 ## Overview
 

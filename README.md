@@ -1,6 +1,6 @@
 # GPT-Style Transformer Language Model
 
-Welcome to the GPT-Style Transformer Language Model repository! This project implements a language model inspired by the Transformer architecture, aiming to generate coherent and contextually relevant text sequences using Tensorflow.
+Welcome to the GPT-Style Transformer Language Model repository! This project implements a language model inspired by the Transformer architecture, aiming to generate coherent and contextually relevant text sequences using PyTorch.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository encompasses the development of a GPT-style language model, focus
 
 - **Model Architecture:** Implementation of a language model architecture based on the Transformer framework, incorporating token embeddings, positional encodings, multi-head self-attention mechanisms, and feedforward layers.
 
-- **Training and Optimization:** Efficient training loops utilizing Tensorflow's capabilities and optimizing the model's learning process using the AdamW optimiser.
+- **Training and Optimization:** Efficient training loops utilizing PyTorch's capabilities and optimizing the model's learning process using the AdamW optimiser.
 
 - **Hyperparameter Exploration:** Experimentation with hyperparameters such as embedding sizes, attention head counts, and learning rates to enhance the model's performance.
 
@@ -16,9 +16,9 @@ This repository encompasses the development of a GPT-style language model, focus
 
 ## Key Features
 
-- **Transformer-Based Model:** Tensorflow-based implementation of a GPT-style language model inspired by the Transformer architecture.
+- **Transformer-Based Model:** PyTorch-based implementation of a GPT-style language model inspired by the Transformer architecture.
 
-- **Training Loop:** Efficient training procedures leveraging Tensorflow's capabilities for neural network training and optimisation.
+- **Training Loop:** Efficient training procedures leveraging PyTorch's capabilities for neural network training and optimisation.
 
 - **Hyperparameter Tuning:** Exploration and fine-tuning of hyperparameters to enhance the model's performance in text generation tasks.
 
